@@ -81,7 +81,7 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: python https://github.com/huggingface/transformers.git
+1. Repositório selecionado: https://github.com/huggingface/transformers.git
 2. Gráfico selecionado: 
  ![Lines of code](image.png)
 3. Explicação: 
