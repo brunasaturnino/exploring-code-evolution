@@ -83,7 +83,7 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 1. Repositório selecionado: python https://github.com/huggingface/transformers.git
 2. Gráfico selecionado: 
- ![Lines of code](loc_evolution.png)
+ ![Lines of code](image.png)
 3. Explicação: 
 ## ANÁLISE DA EVOLUÇÃO DO CÓDIGO: Hugging Face Transformers
 
